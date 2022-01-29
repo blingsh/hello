@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         label.backgroundColor = .blue
         view.addSubview(label)
     }
-
-
+    
 }
 
